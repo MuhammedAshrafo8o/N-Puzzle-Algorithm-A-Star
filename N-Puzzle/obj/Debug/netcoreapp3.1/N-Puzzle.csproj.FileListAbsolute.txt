@@ -1,0 +1,112 @@
+F:\3-2-Projects\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.exe
+F:\3-2-Projects\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.deps.json
+F:\3-2-Projects\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.runtimeconfig.json
+F:\3-2-Projects\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.runtimeconfig.dev.json
+F:\3-2-Projects\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.dll
+F:\3-2-Projects\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.pdb
+F:\3-2-Projects\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.csproj.AssemblyReference.cache
+F:\3-2-Projects\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+F:\3-2-Projects\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.AssemblyInfoInputs.cache
+F:\3-2-Projects\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.AssemblyInfo.cs
+F:\3-2-Projects\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.csproj.CoreCompileInputs.cache
+F:\3-2-Projects\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.dll
+F:\3-2-Projects\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.pdb
+F:\3-2-Projects\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.genruntimeconfig.cache
+F:\3-2-Projects\Ahmed Osama\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.exe
+F:\3-2-Projects\Ahmed Osama\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.deps.json
+F:\3-2-Projects\Ahmed Osama\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.runtimeconfig.json
+F:\3-2-Projects\Ahmed Osama\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.runtimeconfig.dev.json
+F:\3-2-Projects\Ahmed Osama\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.dll
+F:\3-2-Projects\Ahmed Osama\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.pdb
+F:\3-2-Projects\Ahmed Osama\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.csproj.AssemblyReference.cache
+F:\3-2-Projects\Ahmed Osama\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+F:\3-2-Projects\Ahmed Osama\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.AssemblyInfoInputs.cache
+F:\3-2-Projects\Ahmed Osama\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.AssemblyInfo.cs
+F:\3-2-Projects\Ahmed Osama\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.csproj.CoreCompileInputs.cache
+F:\3-2-Projects\Ahmed Osama\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.dll
+F:\3-2-Projects\Ahmed Osama\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.pdb
+F:\3-2-Projects\Ahmed Osama\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.genruntimeconfig.cache
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.exe
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.deps.json
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.runtimeconfig.json
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.runtimeconfig.dev.json
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.dll
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.pdb
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.csproj.AssemblyReference.cache
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.AssemblyInfoInputs.cache
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.AssemblyInfo.cs
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.csproj.CoreCompileInputs.cache
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.dll
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.pdb
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.genruntimeconfig.cache
+F:\3-2-Projects\Ahmed Osama\Alghorithms\game\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.exe
+F:\3-2-Projects\Ahmed Osama\Alghorithms\game\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.deps.json
+F:\3-2-Projects\Ahmed Osama\Alghorithms\game\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.runtimeconfig.json
+F:\3-2-Projects\Ahmed Osama\Alghorithms\game\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.runtimeconfig.dev.json
+F:\3-2-Projects\Ahmed Osama\Alghorithms\game\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.dll
+F:\3-2-Projects\Ahmed Osama\Alghorithms\game\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.pdb
+F:\3-2-Projects\Ahmed Osama\Alghorithms\game\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.csproj.AssemblyReference.cache
+F:\3-2-Projects\Ahmed Osama\Alghorithms\game\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+F:\3-2-Projects\Ahmed Osama\Alghorithms\game\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.AssemblyInfoInputs.cache
+F:\3-2-Projects\Ahmed Osama\Alghorithms\game\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.AssemblyInfo.cs
+F:\3-2-Projects\Ahmed Osama\Alghorithms\game\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.csproj.CoreCompileInputs.cache
+F:\3-2-Projects\Ahmed Osama\Alghorithms\game\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.dll
+F:\3-2-Projects\Ahmed Osama\Alghorithms\game\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.pdb
+F:\3-2-Projects\Ahmed Osama\Alghorithms\game\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.genruntimeconfig.cache
+G:\real college\Algo\project\Sample\N-Puzzle (3) (5)\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.exe
+G:\real college\Algo\project\Sample\N-Puzzle (3) (5)\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.deps.json
+G:\real college\Algo\project\Sample\N-Puzzle (3) (5)\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.runtimeconfig.json
+G:\real college\Algo\project\Sample\N-Puzzle (3) (5)\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.runtimeconfig.dev.json
+G:\real college\Algo\project\Sample\N-Puzzle (3) (5)\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.dll
+G:\real college\Algo\project\Sample\N-Puzzle (3) (5)\N-Puzzle (3)\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.pdb
+G:\real college\Algo\project\Sample\N-Puzzle (3) (5)\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.csproj.AssemblyReference.cache
+G:\real college\Algo\project\Sample\N-Puzzle (3) (5)\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+G:\real college\Algo\project\Sample\N-Puzzle (3) (5)\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.AssemblyInfoInputs.cache
+G:\real college\Algo\project\Sample\N-Puzzle (3) (5)\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.AssemblyInfo.cs
+G:\real college\Algo\project\Sample\N-Puzzle (3) (5)\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.csproj.CoreCompileInputs.cache
+G:\real college\Algo\project\Sample\N-Puzzle (3) (5)\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.dll
+G:\real college\Algo\project\Sample\N-Puzzle (3) (5)\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.pdb
+G:\real college\Algo\project\Sample\N-Puzzle (3) (5)\N-Puzzle (3)\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.genruntimeconfig.cache
+C:\Users\Ahmed osama\Downloads\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.exe
+C:\Users\Ahmed osama\Downloads\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.deps.json
+C:\Users\Ahmed osama\Downloads\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.runtimeconfig.json
+C:\Users\Ahmed osama\Downloads\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.runtimeconfig.dev.json
+C:\Users\Ahmed osama\Downloads\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.dll
+C:\Users\Ahmed osama\Downloads\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.pdb
+C:\Users\Ahmed osama\Downloads\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.csproj.AssemblyReference.cache
+C:\Users\Ahmed osama\Downloads\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed osama\Downloads\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.AssemblyInfoInputs.cache
+C:\Users\Ahmed osama\Downloads\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.AssemblyInfo.cs
+C:\Users\Ahmed osama\Downloads\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed osama\Downloads\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.dll
+C:\Users\Ahmed osama\Downloads\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.pdb
+C:\Users\Ahmed osama\Downloads\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.genruntimeconfig.cache
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.exe
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.deps.json
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.runtimeconfig.json
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.runtimeconfig.dev.json
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.dll
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.pdb
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.csproj.AssemblyReference.cache
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.AssemblyInfoInputs.cache
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.AssemblyInfo.cs
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.csproj.CoreCompileInputs.cache
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.dll
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.pdb
+F:\3-2-Projects\Ahmed Osama\Alghorithms\N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.genruntimeconfig.cache
+C:\Users\Ahmed osama\Documents\GitHub\Alghorithms-N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.exe
+C:\Users\Ahmed osama\Documents\GitHub\Alghorithms-N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.deps.json
+C:\Users\Ahmed osama\Documents\GitHub\Alghorithms-N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.runtimeconfig.json
+C:\Users\Ahmed osama\Documents\GitHub\Alghorithms-N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.runtimeconfig.dev.json
+C:\Users\Ahmed osama\Documents\GitHub\Alghorithms-N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.dll
+C:\Users\Ahmed osama\Documents\GitHub\Alghorithms-N-Puzzle\N-Puzzle\bin\Debug\netcoreapp3.1\N-Puzzle.pdb
+C:\Users\Ahmed osama\Documents\GitHub\Alghorithms-N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.csproj.AssemblyReference.cache
+C:\Users\Ahmed osama\Documents\GitHub\Alghorithms-N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed osama\Documents\GitHub\Alghorithms-N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.AssemblyInfoInputs.cache
+C:\Users\Ahmed osama\Documents\GitHub\Alghorithms-N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.AssemblyInfo.cs
+C:\Users\Ahmed osama\Documents\GitHub\Alghorithms-N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed osama\Documents\GitHub\Alghorithms-N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.dll
+C:\Users\Ahmed osama\Documents\GitHub\Alghorithms-N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.pdb
+C:\Users\Ahmed osama\Documents\GitHub\Alghorithms-N-Puzzle\N-Puzzle\obj\Debug\netcoreapp3.1\N-Puzzle.genruntimeconfig.cache
